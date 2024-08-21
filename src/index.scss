@@ -1,0 +1,20 @@
+$white50: #ffffff;
+$white600: #656565;
+$white950: #292929;
+
+$blue50: #eff4ff;
+$blue600: #2563eb;
+
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
